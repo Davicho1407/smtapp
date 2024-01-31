@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316701302300",
+    "firebase_url": "https://smtapp-4e5fa-default-rtdb.firebaseio.com",
+    "project_id": "smtapp-4e5fa",
+    "storage_bucket": "smtapp-4e5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316701302300:android:f9b3bad61c0acd940b89d9",
+        "android_client_info": {
+          "package_name": "com.example.smtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316701302300-saut59m1urpiv86fan7rmu33oeck1m2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smtapp",
+            "certificate_hash": "8e074246d2f5896370da951eea0bdf65a14f1af6"
+          }
+        },
+        {
+          "client_id": "316701302300-ochot3aouis7k22lanqmt8vqb7gcbhfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Kj0Xe2LSm8GjPyxwFs-hCIHU-i5F0j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316701302300-ochot3aouis7k22lanqmt8vqb7gcbhfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
